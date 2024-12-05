@@ -1,112 +1,801 @@
-<?xml version="1.0"?>
-<yml_catalog date="2017-02-05 17:22">
-<shop>
-<name>SeoPulses</name>
-<company>SeoPulses.ru</company>
-<url>https://seopulses.ru</url>
-<currencies>
-            <currency id="RUR" rate="1"></currency>
-            <currency id="USD" rate="70"></currency>
-            <currency id="EUR" rate="80"></currency>
-</currencies>
-<categories>
-	<category id="1111">Р РµРєР»Р°РјР°</category>
-	<category id="2222" parentId="1111">РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚</category>
-	<category id="3333" parentId="1111">Google Ads</category>
-</categories>
-<offers>
-	<offer id="1" type="vendor.model" available="true">
-		<url>https://seopulses.ru/kak-sozdat-price-list-dlya-yandex-marketa/</url>
-		<price>100</price>
-		<currencyId>RUR</currencyId>
-		<categoryId>1111</categoryId>
-		<picture>https://seopulses.ru/wp-content/uploads/2019/07/10--300x200.jpg</picture>
-		<store>true</store>
-		<pickup>true</pickup>
-		<vendor>SeoPulses</vendor>
-		<typePrefix>Р РµРєР»Р°РјР°</typePrefix>
-		<model>РљР°Рє СЃРѕР·РґР°С‚СЊ РїСЂР°Р№СЃ-Р»РёСЃС‚ (С„РёРґ xml/yml) РґР»СЏ РЇРЅРґРµРєСЃ.РњР°СЂРєРµС‚Р°</model>
-		<description>РљРµСЂР°РјРёС‡РµСЃРєР°СЏ РїР»РёС‚РєР° Atlas Concorde 3D White Wall</description>
-		<sales_notes>РђРІС‚РѕСЂ Р§Р°РєРєР°РЅР±Р°РµРІ РР»СЊС…РѕРј</sales_notes>
-		<manufacturer_warranty>true</manufacturer_warranty>
-		<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
-	</offer>
-	<offer id="2" type="vendor.model" available="true">
-		<url>https://seopulses.ru/kak-sozdat-feed-dlya-dinamicheskih-obyavleniy/</url>
-		<price>100</price>
-		<currencyId>RUR</currencyId>
-		<categoryId>2222</categoryId>
-		<picture>https://seopulses.ru/wp-content/uploads/2019/08/2000004-294x300.png</picture>
-		<store>true</store>
-		<pickup>true</pickup>
-		<vendor>SeoPulses</vendor>
-		<typePrefix>РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚</typePrefix>
-		<model>РљР°Рє СЃРѕР·РґР°С‚СЊ С„РёРґ РґР»СЏ РґРёРЅР°РјРёС‡РµСЃРєРёС… РѕР±СЉСЏРІР»РµРЅРёР№ РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚ (YML/XML)</model>
-		<description>РљРµСЂР°РјРѕРіСЂР°РЅРёС‚ Atlas Concorde Era</description>
-		<sales_notes>РђРІС‚РѕСЂ Р§Р°РєРєР°РЅР±Р°РµРІ РР»СЊС…РѕРј</sales_notes>
-		<manufacturer_warranty>true</manufacturer_warranty>
-		<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
-	</offer>
-	<offer id="3" type="vendor.model" available="true">
-		<url>https://seopulses.ru/kak-sozdat-feed-dlya-smart-bannerov/</url>
-		<price>100</price>
-		<currencyId>RUR</currencyId>
-		<categoryId>2222</categoryId>
-		<picture>https://seopulses.ru/wp-content/uploads/2019/08/2000004-294x300.png</picture>
-		<store>true</store>
-		<pickup>true</pickup>
-		<vendor>SeoPulses</vendor>
-		<typePrefix>РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚</typePrefix>
-		<model>РљР°Рє СЃРѕР·РґР°С‚СЊ С„РёРґ РґР»СЏ СЃРјР°СЂС‚-Р±Р°РЅРЅРµСЂРѕРІ РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚ (YML/XML)</model>
-		<sales_notes>РђРІС‚РѕСЂ Р§Р°РєРєР°РЅР±Р°РµРІ РР»СЊС…РѕРј</sales_notes>
-		<manufacturer_warranty>true</manufacturer_warranty>
-		<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
-	</offer>
-	<offer id="4" type="vendor.model" available="true">
-		<url>https://seopulses.ru/torgovaya-galereya-v-yandex-direct/</url>
-		<price>100</price>
-		<currencyId>RUR</currencyId>
-		<categoryId>2222</categoryId>
-		<picture>https://seopulses.ru/wp-content/uploads/2019/08/2-23-300x198.png</picture>
-		<store>true</store>
-		<pickup>true</pickup>
-		<vendor>SeoPulses</vendor>
-		<typePrefix>РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚</typePrefix>
-		<model>РўРѕРІР°СЂРЅР°СЏ РіР°Р»РµСЂРµСЏ РІ РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚Рµ: С‡С‚Рѕ СЌС‚Рѕ Рё РєР°Рє С‚СѓРґР° РїРѕРїР°СЃС‚СЊ?</model>
-		<sales_notes>РђРІС‚РѕСЂ Р§Р°РєРєР°РЅР±Р°РµРІ РР»СЊС…РѕРј</sales_notes>
-		<manufacturer_warranty>true</manufacturer_warranty>
-		<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
-	</offer>
-	<offer id="5" type="vendor.model" available="true">
-		<url>https://seopulses.ru/smart-banneri-v-yandex-direct/</url>
-		<price>100</price>
-		<currencyId>RUR</currencyId>
-		<categoryId>2222</categoryId>
-		<picture>https://seopulses.ru/wp-content/uploads/2019/08/5-8-300x136.png</picture>
-		<store>true</store>
-		<pickup>true</pickup>
-		<vendor>SeoPulses</vendor>
-		<typePrefix>РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚</typePrefix>
-		<model>РЎРјР°СЂС‚-Р±Р°РЅРЅРµСЂС‹ РІ РЇРЅРґРµРєСЃ.Р”РёСЂРµРєС‚: С‡С‚Рѕ СЌС‚Рѕ, РЅР°СЃС‚СЂРѕР№РєРё Рё Р·Р°РїСѓСЃРє</model>
-		<sales_notes>РђРІС‚РѕСЂ Р§Р°РєРєР°РЅР±Р°РµРІ РР»СЊС…РѕРј</sales_notes>
-		<manufacturer_warranty>true</manufacturer_warranty>
-		<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
-	</offer>
-	<offer id="6" type="vendor.model" available="true">
-		<url>https://seopulses.ru/dinamicheskiye-poickoviye-obyavleniya-v-google-ads/</url>
-		<price>100</price>
-		<currencyId>RUR</currencyId>
-		<categoryId>3333</categoryId>
-		<picture>https://seopulses.ru/wp-content/uploads/2019/08/13-300x155.jpg</picture>
-		<store>true</store>
-		<pickup>true</pickup>
-		<vendor>SeoPulses</vendor>
-		<typePrefix>Google Ads</typePrefix>
-		<model>Р”РёРЅР°РјРёС‡РµСЃРєРёРµ РїРѕРёСЃРєРѕРІС‹Рµ РѕР±СЉСЏРІР»РµРЅРёСЏ РІ Google Ads: С‡С‚Рѕ СЌС‚Рѕ Рё РєР°Рє РёС… Р·Р°РїСѓСЃС‚РёС‚СЊ</model>
-		<sales_notes>РђРІС‚РѕСЂ Р§Р°РєРєР°РЅР±Р°РµРІ РР»СЊС…РѕРј</sales_notes>
-		<manufacturer_warranty>true</manufacturer_warranty>
-		<country_of_origin>Р РѕСЃСЃРёСЏ</country_of_origin>
-	</offer>
-</offers>
-</shop>
-</yml_catalog>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+<generation-date>2024-12-05T09:11:06+03:00</generation-date>
+<offer internal-id="comm_rent_4833463450">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>1-й Московский пр., 17</address>
+</location>
+<sales-agent>
+<name>Елизавета</name>
+<phone>+79312091300</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>60000</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Omc-grawlo4INRSDRt4ZTxcjlI6OK56EiA.gthIal4GtGlSkPoF7-4CglHcCYMP5_QammkEgUOtmoM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.P9on5bawkzMRUhE-Vb0d8g5EkTOXTJs5kQ.XrVpREhi0dHHBz0ciuhP84-5gCZgyrkUTtrp7A9sWaE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.cNlzZbaw3DBF0l49H2xP8VrE3jDDzNQ6xQ.7tpfb9HnseG79ObcmT-XGCDl2Nxp-uyanBEI6__ROpE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.L3qykrawg5OEJQGe4M4MUpszgZMCO4uZBA.Scg0OcFivO4Fz-nuV9BIWAJb-7bGvM_MEnzFSjEpY3g</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.F9WHNbawuzyxgjkxpR0o_a6UuTw3nLM2MQ.B8tDQFNqK5goTE5axkOP6NVBGIxiO42Q7_j30AXWuwY</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.HqtZDLawskJvuzBPaWR--0atsELppbpI7w.6hVdUO-Z1bywgOM6Phc-wcSUSh4p22qB16-pNqyfz8Q</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.M-cVurawnw4jDR0Df_oXzzwbnQ6lE5cEow.Z38Lm-x_vj9GUiBb5N12eUu63DsLs_xQazU5DcdGKtQ</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.N2zl_bawm4XTShmIh41NPPpcmYVVVJOPUw.mR-I1iWjAxBF5dRFWoWdsEaVOZ8gxLz3bm5-kFwXIa0</image>
+<area>
+<value>500</value>
+<unit>sq. m</unit>
+</area>
+<description>Аpендa участка и помещения свободного назначения в 300 метрах от трассы М10 под производство или автосервис. ✅ Характepиcтики oбъeктa (фото реaльные): · Площадь учaстка пoд apенду: oт 100 м2 до 8000 м2. · Kадастрoвый нoмеp: 47:26:0301016:405. · Отсутcтвиe любыx обремeнeний (юридически чистый объeкт). · Пoдключенныe кoммуникации: электрoснабжение вoдоснабжeние отoпление автономное кaнализация телефония телевизионный кабель ______________________________ 📌 Технические характеристики прилегающей территории: · Мощность по электричеству: 100 кВт. · Создана скважина для забора пресной воды. · Закрытая асфальтированная территория, парковка. · Круглосуточное видеонаблюдение, охрана. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Наличие площадок для маневрирования большегрузных автомобилей. ______________________________ 👍 Логистика/инфраструктура: · Первая линия к федеральной трассе. · Остановка общественного транспорта в 7 минутах ходьбы. · Участок расположен в 30 км от Санкт-Петербурга в Тосненском районе на федеральной трассе "Россия" ("Москва-Санкт-Петербург"). ______________________________ 💵 Оплата помесячно земельного участка: 7 000 руб. за 100 м2. 💵 Оплата помесячно кв. метр здания: 600 руб. 💵 Эксплуатационные расходы: включены в стоимость аренды. 💵 Коммунальные услуги: по счётчику. ______________________________ ⚡ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки. · Обслуживание объекта недвижимости от “УК Созвездие Водолея”. · Приоритет, при расширении по более выгодной ставке. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. ☎️ Для бесплатной организации просмотра, а также для получения консультации по условиям аренды - ЗВОНИТЕ! ☎️ Время показа объекта: Пн - Пт: 10:00 - 18:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>4</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>с отделкой</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4834226199">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>поселок Мичуринское</locality-name>
+<address>Первомайская ул., 35</address>
+<latitude>60.561341</latitude>
+<longitude>29.860413</longitude>
+</location>
+<sales-agent>
+<name>Елизавета</name>
+<phone>+79312091300</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>21700</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.mh-H2bawNvaxbrT7v9PlT5h4NPY3cD78MQ.i9CuY195urmxEJBiIfWNLHgiOn5eMqpCBP2M_KCeQEs</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.P7UxaLawk1wH3xFRQyhH5S7JkVyBwZtWhw.BsZ2Gvi-y4tZTs4feE9P3XSrUbMn591fAtgUv5c1fJ0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.z9ontbawYzMRAuE-Nc7s8g4UYTOXHGs5kQ.pegboWVfvDO_ukLbzQ4Ru8n_mtg-tgDNCa0EYymJNsw</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.u35e3bawF5doapWaJNvDLkF8FZfudB-d6A.K2tb575gqvweKAl_krwLZga3r6x-fNrgt-y7GoIP-tU</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.1vN-KLawehpIn_gXXlP121eJeBrOgXIQyA.-BUna2Fy754VAXk8_Ol6-XBtOojRqHCkM16xnhrX2qI</image>
+<area>
+<value>310</value>
+<unit>sq. m</unit>
+</area>
+<description>Аренда асфальтированной территории напрямую от собственника. Предоставляем арендные каникулы. · Подходит под строительство АЗС, автосервиса, склада, размещение контейнеров. ______________________________ Характеристики объекта (фото реальные): · Площадь асфальтированного участка под аренду: 310 м2. · Кадастровый номер участка: 47:03:1002002:297. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации: электроснабжение. · Группа Быстрого Реагирования, охрана. · Разрешенная мощность электроэнергии: 150 кВт. · Удобный подъезд грузовой техники. ______________________________ Логистика/инфраструктура прилегающей территории: · Объект находится в первой линии от дороги общего пользования федерального значения 41К-017. · Остановка общественного транспорта в 5 минутах ходьбы. Автобус ходит до СПб, станции метро “Парнас” и поселка “Сосново”. · В 10 минутах езды от участка расположены крупнейшие горнолыжные курорты и базы отдыха: «Коробицыно», «Красное озеро», «Золотая долина», «Снежный». ______________________________ 💵 Оплата помесячно: 70 руб. в месяц за кв. метр. 💵 Возвратный залог 21700 можно разбить на 2 части. 💵 Коммунальные услуги: по счётчику. ______________________________ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея” под ключ. · Приоритет, при расширении по более выгодной ставке. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. ☎️☎️☎️ Для бесплатной организации просмотра, а также для получения консультации по условиям аренды - ЗВОНИТЕ! ☎️☎️☎️ Время показа объекта: Пн - Пт: 10:00 - 18:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>5</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>с отделкой</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4833598728">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>поселок Мичуринское</locality-name>
+<address>Первомайская ул., 35</address>
+<latitude>60.561341</latitude>
+<longitude>29.860413</longitude>
+</location>
+<sales-agent>
+<name>Елизавета</name>
+<phone>+79312091300</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>89000</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.F8uHM7awuyKxhDkvpScw466SuSI3mrMoMQ.RU5p-FDhNIBNi-PzR9_HNSNgTvPK-wc-Bf730QUh990</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.ALfYB7awrF7usC5T1DtqhMCmrl5orqRUbg.4cTRghfDc5qfR6euKOz6CQeuNifo3NgSjMsCgR5XjAU</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.I35eyrawj5dofQ2aFK5eLkFrjZfuY4ed6A.o8HV-yeKedW7NmHMcCJ157BRuo1Sxk6481NVG1NdoY0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.SN4dc7aw5DcrxGY6AX4pjgLS5jet2uw9qw.5_f5GEEjqcyWtUpQGDQxoZCLNwQznSCiOShf96p5c6M</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.EyivxLawv8GZcz3MhegtAIZlvcEfbbfLGQ.GOO5z9gCg9Xz4zDxFAeiKbBZF-wPDYuUqDeo2D-zhtw</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.57UxrLawS1wHG8lRc-ec5S4NSVyBBUNWhw.Kj5Ct7heXRhSvTfZDj_ZBpDJxb4YhVlj0GWxpQDzLQM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.57UxTrawS1wH-clRc0Gf5S7vSVyB50NWhw.cjiS19lsb1l8o5YXMyzbvArZssq8rf5RT2qwVtbKSqY</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.X7UwQraw81wG9XFRAlcj5S_j8VyA6_tWhg.aTeePsbGp1UTi9-gu-eWIj4J1cPea2p-HMDgXEXCbk4</image>
+<area>
+<value>1100</value>
+<unit>sq. m</unit>
+</area>
+<description>Помещение для размещения любых видов деятельности от автосервиса до склада и крупного производства. 🎯 Предоставляем арендные каникулы. ✅ Характеристики помещения: · Общая площадь: 1100 м2 · Все помещения входят в стоимость сделки. · Высота потолков: от 5 до 8 метров.  · Сквозной проезд. · Отдельных вход 4,5 х5. · Кадастровый номер участка: 47:03:1002002:297. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации: электроснабжение. ______________________________ 📌 Технические характеристики прилегающей территории: · Группа Быстрого Реагирования, охрана. · Разрешенная мощность электроэнергии: 250 кВт. · Закрытая асфальтированная территория. · Охраняемая парковка легкового автомобиля перед ангаром. · Удобный подъезд грузовой техники. ______________________________ 👍 Логистика/инфраструктура прилегающей территории: · Складское помещение находится в первой линии от дороги общего пользования федерального значения 41К-017. · Остановка общественного транспорта в 5 минутах ходьбы. Автобус ходит до СПб, станции метро “Парнас” и поселка “Сосново”. · В 10 минутах езды от участка расположены крупнейшие горнолыжные курорты и базы отдыха: «Коробицыно», «Красное озеро», «Золотая долина», «Снежный». ______________________________ 💵 Оплата помесячно: 89 000 руб. в месяц за всё здание. 💵 Коммунальные услуги: по счётчику ______________________________ ⚡Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея” под ключ. · Приоритет, при расширении по более выгодной ставке. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. · Возможно УСН и НДС. ☎️ Для бесплатной организации просмотра, а также для получения консультации - ЗВОНИТЕ! ☎️ Время показа объекта: Пн - Пт: 09:00 - 18:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>8</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>с отделкой</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4833484939">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>поселок Мичуринское</locality-name>
+<address>Первомайская ул., 35</address>
+<latitude>60.561341</latitude>
+<longitude>29.860413</longitude>
+</location>
+<sales-agent>
+<name>Елизавета</name>
+<phone>+79312091300</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>45500</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.H3pOkraws5N4JTGefLY_UmczsZP-O7uZ-A.i_9UTaDX6M3RY0b7a8PD_OdccB9NMcUSOAfQ4n_zgIg</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.uuFClLawFgh0I5QFOoLGsV01FAjyPR4C9A.BLrr00sv8BCeLt3AaW4mq9bXegNiq9UOlnyZzZD1Bec</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.6WfSxrawRY7kcceDjL3IT_tnR45ib02EZA.krxuW28_ITy4mwm8xfQezdzXt4Q2R0Xf4wa_I1D0zWM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.WNmJJbaw9DC_knY9tQh48aCE9jA5jPw6Pw.TjvmHgClrCGtfKq2P_eJcYGmLZy0oms45brCsVbKemU</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.n9onQ7awMzMR9LE-FVW_8g7iMTOX6js5kQ.jruJs7_DqWOPi05AwtQQQCShb3TLdjKxXN04NRd9vvA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.VfCL2baw-Rm9bnsUrZApoJR4-xk7cPETPQ.I72hyr1FaFiTiHoZxFVPn4NPfsRJClknIQVlKQkDsLY</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.-VThArawVb3Xtdewny2FBP6jV71Rq123Vw.ymbzctW0gHF4x_TjSlzK5DpiwsEMwfb5DJrXxoGp8jk</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.GXBhArawtZlXtTeUXwpnIH6jt5nRq72T1w.bdJJnlKNF78n20x9AtpurrzKW4C3xe1VRKSkRk1RGDQ</image>
+<area>
+<value>379.6</value>
+<unit>sq. m</unit>
+</area>
+<description>Аренда помещения напрямую от собственника по адресу: пос. Мичуринское, ул. Первомайская 35. Предоставляем арендные каникулы. ______________________________ Характеристики объекта (фото реальные): · Площадь ангара: 379,6 м2. · Материал стен: листовой металл. · Возможно установить перегородки. · Высота конька крыши: 3,5 м.  · Полностью работающее освещение. · Кадастровый номер участка: 47:03:1002002:297. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации: электроснабжение (Щитовая - соседнее здание). ______________________________ Технические характеристики прилегающей территории: · Группа Быстрого Реагирования, охрана. · Разрешенная мощность электроэнергии: 250 кВт. · Закрытая асфальтированная территория. · Охраняемая парковка легкового автомобиля перед ангаром. · Удобный подъезд грузовой техники. ______________________________ Логистика/инфраструктура прилегающей территории: · Складское помещение находится в первой линии от дороги общего пользования федерального значения 41К-017. · Остановка общественного транспорта в 5 минутах ходьбы. Автобус ходит до СПб, станции метро “Парнас” и поселка “Сосново”. · В 10 минутах езды от участка расположены крупнейшие горнолыжные курорты и базы отдыха: «Коробицыно», «Красное озеро», «Золотая долина», «Снежный». ______________________________ 💵 Оплата помесячно: 45 500 руб в месяц. 💵 Коммунальные услуги: по счётчику. 💵 Эксплуатационные услуги: включены в стоимость. 💵 Возвратный залог 45 500 можно разбить на два месяца. ______________________________ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея” под ключ. · Приоритет, при расширении по более выгодной ставке. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. ☎️☎️☎️ Для бесплатной организации просмотра, а также для получения консультации по условиям аренды - ЗВОНИТЕ! ☎️☎️☎️ Время показа объекта: Пн - Вс: 09:00 - 21:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>4</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4962346116">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>поселок Мичуринское</locality-name>
+<address>Первомайская ул., 35</address>
+<latitude>60.561341</latitude>
+<longitude>29.860413</longitude>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>32000</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qT4Ka7awBdc83IfaVFmVABLKB9e6wg3dvA.l5UzCd_e-aOaFezfj79LBrQLaNRQUyh1J7tWCQ46HnI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.q_2cH7awBxSqqIUZxh3G0oq-BRQstg8eKg.DjRk6THf-DhJioqT1VWREI6ECpEoajsq6WiY-wFOel8</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.FIFqA7awuGhctDplTj8z13aiumjaqrBi3A.bkqDb1N550n_Nc0u2Y6uTBm06w1oGkRpr_58oLmPLIg</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.3aSzJrawcU2FkfNAhVW_i6WHc00Dj3lHBQ.BPYfcReO-ovXMt6ktfbRTfrYVhpKHX4DX4Knwc2ypWE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.vL3wALawEFTGt5JZhAKdg-ihElRAqRheRg.jEfBD9FFrCGWrOcjNA1_WdwadxZXUsdSkL4AblvjvGM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.5nocHbawSpMqqsieXDLURAS8SJOstEKZqg.RK4lX4sFeSgTPeMRZYKNOtsxqJItmB3Jj47BxZwQlmw</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.f_qV97aw0xOjQFEe54JIxI1W0RMlXtsZIw.JLvjM9i_rWIYs0ro-h_Mx0lqkfIJrwcRMTL594GPw4k</image>
+<area>
+<value>398.5</value>
+<unit>sq. m</unit>
+</area>
+<description>Автосервис около крупного жилого поселка на охраняемой территории от собственника. 💵 Предоставляем арендные каникулы. 🎯 Объект подойдет для ремонта и полного обслуживания, покраски легкового автотранспорта. ______________________________ 🏡 Об объекте (фото реальные): · Общая площадь под аренду: 398.5 м2. · Сервисная зона: 201,3 м2. · Офисная, складская зона: 197,2 м2. · Отапливаемое помещение. · Смотровая яма · Бетонный пол. · Въездная группа: Высота: 3,5 метров, Ширина: 3 метра. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации в здании: электроснабжение. ______________________________ 📌 Характеристики прилегающей территории: · Группа Быстрого Реагирования, охрана. · Разрешенная мощность электроэнергии: 250 кВт. · Ограждение, закрытая асфальтированная территория. · Круглосуточное видеонаблюдение. · Удобный подъезд грузовой техники. ______________________________ 📈 Логистика/инфраструктура прилегающей территории: · Складское помещение находится в первой линии от дороги общего пользования федерального значения 41К-017. · Остановка общественного транспорта в 5 минутах ходьбы. Автобус ходит до СПб, станции метро “Парнас” и поселка “Сосново”. · В 10 минутах езды от участка расположены крупнейшие горнолыжные курорты и базы отдыха: «Коробицыно», «Красное озеро», «Золотая долина», «Снежный». ______________________________ 💵 Коммерческие условия: · 32 000 руб. - Арендная плата помесячно. · 32 000 руб.- Возвратный залог, можно разбить по частям на два месяца. · По счётчику - Коммунальные услуги. · 0 руб. - Эксплуатационные услуги. 💵 Оплата после заключения договора. ______________________________ 🤝 Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки под ключ. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея”. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. · НДС / без НДС · Предоставляем закрывающие документы. 📲 Более подробно расскажем по телефону - пожалуйста, звоните! Время показа объекта: Пн - Пт: 10:00 - 17:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>5</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>с отделкой</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4834421072">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3/2</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>120000</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.2SMOG7awdco4rPfHMAi1EBa6d8q-sn3AuA.E2PCEneJf7NKvcuXgZGCJCJ5zG9Ws1djdnlcWjafOt0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.eSMJ97aw1co_QFfHd4ZrEBFW18q5Xt3Avw.2r2yo7TNNVqRtWNjCkUvRisNWWA32FKDKZJQ2xSJFV0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.sNm1ZbawHDCD0p492Q-X8ZzEHjAFzBQ6Aw.MKUTdpVSQZOwYxKV1Rqg57M8_U5Xlwo2TrVnDK7xOzM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.6TwXDLawRdUhu8fYSSeUbAitR9WnpU3foQ.Yp9uITxcO_4w7t_oalDRvWEERCgC-5_cpCpLfWiilNA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.57UxQrawS1wH9clRc1Wf5S7jSVyB60NWhw.XS9k_FyGT0sDALlUAj8qktiT6uDb9CQuf3EWYt7pAB4</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.omonL7awDoMRmIyObx2FQg6ODIOXhgaJkQ.XavUvZd3U78sIKon6ZlAvimEt_1moupOGfQVAAGKDrM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.7cNw5bawQSpGUsMnJqbM61lEQyrATEkgxg.AANhLIb63W5fujU6NN86x2oOtHcOH4hD7zeTBm-5E7E</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.lqgjDLawOkEVu7hMAw7t-DytOEGTpTJLlQ.fQ4NSwvEnxuuoeyv3TGsV81KF6GeL6FmFmHopXBr1ZU</image>
+<area>
+<value>120</value>
+<unit>sq. m</unit>
+</area>
+<description>📈 Официальная аренда одной грузовой смотровой ямы напрямую от собственника автопредприятия в 15 минутах от центра. Автосервис подойдет для ремонта и полного обслуживания: · Автотягачей · Автобусов · Микроавтобусов · Самосвалов · Спецтехники · Тракторов · Прицепов ______________________________ ✅ Об объекте (фото реальные): · Общая площадь под аренду: 120 м2. · Для начала работы нужен только ваш инструмент. · Смотровая яма: 1 шт., 10 метров в длину. · Высота первого этажа ямы: 1,8 м · Пол: Бетон. · Туалет. · Столовая. · Въездная группа: Высота: 6 метров, Ширина: 4 метра. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации в здании: электроснабжение, водоснабжение, канализация. ______________________________ 📌 Характеристики прилегающей территории: · Сквозная грузовая автомойка. · Асфальтированная сухая территория. · Группа Быстрого Реагирования, охрана, ограждение по периметру. ______________________________ 👍 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Отдельный заезд грузового транспорта. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы) · В 450 м от автобазы расположена АЗС ______________________________ 💵 Коммерческие условия: · 120 000 руб. - Арендная плата помесячно. · 120 000 руб.- Возвратный залог, можно разбить по частям на два месяца. · По счётчику - Коммунальные услуги. · 0 руб. - Эксплуатационные услуги. 💵 Оплата после заключения договора. ______________________________ ⚡ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея” под ключ. · Приоритет, при расширении по более выгодной ставке. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. ☎️ Для бесплатной организации просмотра, а также для получения консультации по условиям аренды - ЗВОНИТЕ! ☎️ Время показа объекта: Пн - Пт: 10:00 - 18:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>4</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>с отделкой</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4834357894">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3/2</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79213848723</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>149900</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.cNnm5baw3DDQUl49irRd8c9E3jBWTNQ6UA.5FqO0peCZmWnaVmljCkFZ6RRW7duqfqn6Smo7ih5DVw</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.vCELrLawEMg9G5LFf7LEcRQNEsi7BRjCvQ.U21dX9l3J-0axCkX7C7BoOEDkjPXmncSagpqXtlVCxA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.bZGnVrawwXiR4UN18Xsbwbj3w3gX_8lyEQ.6wLUadouU7M5_zYnLk8lbruEPLUlTdWDw-trZ9vQ5kU</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.KZW6x7awhXyMcAdx5OMJvZNmh3wKbo12DA.YCuKAJgqMj1GHpLF-wv6SdNHz3uLhcPD4tBBYC3xSnk</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.4h-KWbawTva87sz7wjKbT5X4TPY68Eb8PA.r7PuA85aK3mLalvQfkPVh1zY-YDkpNn1VWGNQO7uOUo</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.SltnL7aw5rJRmGS_f051c06O5LLXhu640Q.n8AsgM9n7DvAGQgCxgjPB5ZYwGPdCXmj56qlHCteGxI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.WNmYJbaw9DCuknY9pBh68bGE9jAojPw6Lg.HsXuvQ9jeaM5wVci4jAL6FbsylX_CQOitlEyrOebM-E</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.rIiVE7awAGGjpIJswXWMoLyyAmElughrIw.EBmpwuGA3TclBa8BKHei-Fow8dYtSC6Lr4pzEBqdMBc</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.gG2EuLawLISyD66JiNakRa0ZLoQ0ESSOMg.YB9vRIjI1LYljtWsUOyaTCVwODuk0__NKtBZszwdDWA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.iRPhArawJfrXtaf3_xTxQ_6jJ_pRqy3wVw.gla1mXyPtOhlN4kMHXnqQhdUKkTgr9GkKuCikFjNULw</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.kDQdc7awPN0rxL7QMV3sZALSPt2t2jTXqw.-SGdHgCEwQQMM21FoZeI3X0u5zpFap-MFhGSqsgpwqA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.tIiaE7awGGGspJps_nWKoLOyGmEquhBrLA.Rt5rXcz87MzMcGHJcBSw04gz6clSkMyr65kgq8kfO3o</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.pfVr2bawCRxdbosRLePcpXR4CxzbcAEW3Q.sdxz9vY136tPccawW7L9tx4kVHuYEL4oLwIih1--gzo</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.sUo8dLawHaMKw5-uUnbOGiPVH6OM3RWpig.ltVtT18PmZv3610X_pZA7Me9l050YPNRHTEDB_pydf8</image>
+<area>
+<value>161</value>
+<unit>sq. m</unit>
+</area>
+<description>Официальная aрeнда грузового автосервиса нaпрямую от сoбcтвенника aвтопpeдприятия в 15 минутax от цeнтpа. Помещение будет свободно с 1 декабря. Звоните - заедете в приоритетном порядке. Автocервиc подoйдeт для ремонтa и полного обслуживaния: · Автoтягaчeй · Автoбусoв · Mикpоавтобусов · Самосвалов · Спецтехники · Тракторов · Прицепов ______________________________ ✅ Об объекте (фото реальные): · Общая площадь под аренду: 161 м2. · Пол: Бетон. · Мокрая точка. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации в здании: электроснабжение, водоснабжение. ______________________________ 📌 Характеристики прилегающей территории: · Сквозная грузовая автомойка. · Асфальтированная сухая территория. · Группа Быстрого Реагирования, охрана, ограждение по периметру. ______________________________ 👍 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Отдельный заезд грузового транспорта. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы) · В 450 м от автобазы расположена АЗС ______________________________ ⚡ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея” под ключ. · Приоритет, при расширении по более выгодной ставке. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. ☎️ Для бесплатной организации просмотра, а также для получения консультации по условиям аренды - ЗВОНИТЕ! ☎️ Время показа объекта: Пн - Пт: 10:00 - 18:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>4</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>с отделкой</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4833659377">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3/2</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>938000</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.FQtw5LawueJGUzvvVsA1I1lFu-LATbHoxg.CpZnTbMsmgPmxW5RgHIqDqX-GLu7Ap133CtT6wEvH54</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.nS3107awMcTDZLPJw725BdxyM8RFejnOQw.c-d3wqLp0AbrtdAYct4wL8rdlRY7aDQw5BoYnwPdopQ</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.euo6P7aw1gMMiFQOQmpTwhOe1AOKlt4JjA.xcBoYy2Tf-g8jbPSDeoh1xR2vPzrWQvgSB-fhjddnRs</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.WmcHkraw9o4xJXSDP4tlTy4z9I63O_6EsQ.LySLiPPBUpNy_WfyzpBmNgdJ8rC1WEZwv8vCvgGCko4</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.E-ivobawvwGZFj0MhbU0wIYAvQEfCLcLGQ.Wh3inlCSsDnL8BYdPXr_T7TCjZiBwBxzsWj_28AQA5c</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.v2GHM7awE4ixhJGF9XGaSa6SEYg3mhuCMQ.jd7jzhORoHnX3bje0ZCiC7ssljxLV54iBFriZnIjdbI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.2hFCl7awdvh0IPT1evynQV02dPjyPn7y9A.Ak_7cQxebvwher13W39ztFQ2SMnpHXqROeSoZL48284</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.7oWua7awQmyY3MBh_gTKrYfKQGwewkpmGA.AurFV5rt_RzlhImV6xbzR4xoKfNZ0L9_62XHrp_lu3Y</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.VMvSwLaw-CLkd3ov9vFz4_th-iJiafAoZA.u5m05WFJ9pJQ7PX1ZkpYq7GpFYMl-YlTmceUaD2mRk0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.TOjsHraw4AHaqWIM-BMtuPO_4gFct-gLWg.qYAmxHfaOxA96xjhUmyoHPtLnXi5dfZLGbYbjXLrsWk</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.8ko6EbawXqMMptyuUm7MYhOwXKOKuFapjA.vW76arqJCQTfpwl52sUImXSXxNuoP88_DcdZCtZTWNA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.4h-JibawTva_Psz7wZaaT5YoTPY5IEb8Pw.BhcQe5VBQmrjRpS7-mzy3tmb3qLM3_UYKPP6ZX6mbSU</image>
+<area>
+<value>670</value>
+<unit>sq. m</unit>
+</area>
+<description>Автосервис самообслуживания около крупного жилого комплекса на охраняемой территории. 📈 Крупный транспортный поток. Автосервис подойдет для ремонта и полного обслуживания, покраски легкового автотранспорта. Сдается только участок, без оборудования. Оборудование можно арендовать, что включает в себя: Автоподъемник двухстоечный Грузоподъемность: 4200 кг. Техническое обслуживание подъемника Постоянное электроснабжение Воздушный компрессор Внутреннее видеонаблюдение Отдельное освещение рабочего места Общее отопление ______________________________ ✅ Об объекте (фото реальные): · Общая площадь под аренду: 670 м2. · Возможно взять дополнительно в аренду покрасочную зону: 130 м2 · Отапливаемое помещение. · Бетонный пол. · Туалет, столовая. · Въездная группа: Высота: 3,5 метров, Ширина: 4 метра. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации в здании: электроснабжение, водоснабжение, канализация, отопление. ______________________________ 📌 Характеристики прилегающей территории: · Есть сквозная грузовая автомойка. · Асфальтированная сухая территория. · Группа Быстрого Реагирования, охрана. · Видеонаблюдение, ограждение по периметру. ______________________________ 👍 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Отдельный заезд транспорта. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы). · В 450 м от автобазы расположена АЗС ______________________________ 💵 Коммерческие условия: · Аренда помесячно: 938 000 руб. · Коммунальные услуги: по счётчику. · Эксплуатационные услуги: включены в стоимость. · Возвратный залог: 938 000 руб. можно разбить по частям. · Итого первый месяц аренды: 1 407 000 руб. · Оплата только после заключения договора. ______________________________ ⚡ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея” под ключ. · Приоритет, при расширении по более выгодной ставке. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Предоставляем закрывающие документы. · Любые варианты оплаты. ☎️ Для бесплатной организации просмотра и консультации по условиям аренды - ЗВОНИТЕ! ☎️ Время показа объекта: Пн - Вс: 09:00 - 21:00 </description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>8</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4865988202">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3/2</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>142000</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.7PV1aLawQBxD38IRISOd3mnJQhzFwUgWww.kNE0kmq0wLDAgjszXvZV-BM6MqLIPWUcodjiiQYHlq8</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.7X89BLawQZYLs8ObaxutTCWlQ5aNrUmciw.eiDOPuLqeU00Wn1G-yAhQe-NAok2gsX3uZguysAv6Oc</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.QbPP17aw7Vr5YG9XwaIxmNN271p_fuVQeQ.JNPaxIYVjHEhOhW3HBxMFQ1aQZu6jKhLnOq7MGFsT58</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.tehlLLawGQFTm5sMAz6By3ONGwHVhREL0w.wP2Uz0wY0Fk6YxrNf7fiAS2S_uRYCUXP65TgSXLfGlM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.HAHVIrawsOjjlTLl4RYvIsODsuhli7jiYw.4MVajWOM7izY_AWyyORN5wKK44dDUYyK9QlNxb1PMs4</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.LT6hoLawgdeXFwPa9_wfHbcBg9cRCYndFw.R0JxEwEey8kaMfErEc_ru3Jrmc0mQc2Vcn0J20grsy4</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.91iUSLawW7Gi_9m89nu-a4zpWbEk4VO7Ig.5ByTYObWYRoq5rk4j3oRejN2-R80AA9lo7_233FIGK0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.IWfSkbawjY7kJg-DnNEFT_swj45iOIWEZA.F6zpyOe2_is5p0qOD7yP2xdiBOhRyBvSk1M7FqtGClU</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.S_FjS7aw5xhV_GUVeUYqoXzq5RjT4u8S1Q.kwSgwBcIaqXJsnnDUPFlIfeP7L7rwalHFYfEGfot-NE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.sZEy-7awHXgETJ91XI3-ui5aH3iCUhVyhA.QaxOZCvuzjJUiEm2QfMakPWlZsIPfyvHW12pnQmG6rY</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.0VAU67awfbkiXP-0OqyMYwxKf7mkQnWzog.qxDLzxRgc4A4Gu1N-t0Q-8vpAlShe7FxPeGfAqDJA-o</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.f_rXSLaw0xPh_1EepT000cvp0RNn4dsZYQ.-n7nSG0TCGXPJyG5iFwZvgBBLnMIRiOCYpPOx1lwNIU</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.6bPMU7awRVr65MdXkgShmNDyR1p8-k1Qeg.VRlw7Qx2L_15XGDAqW9Iuse1dlQmLuQ6imuWTxdBmsc</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.9Ow3V7awWAUB4NoIUwT7zyH2WgWH_lAPgQ.gva3c5hWgKVe43yJjNJuVP_dpKEy3BIRTPKLQsFD78A</image>
+<area>
+<value>118</value>
+<unit>sq. m</unit>
+</area>
+<description>Отапливаемое помещение свободного назначения около крупного жилого комплекса на охраняемой территории автопредприятия. Предоставляем арендные каникулы. 📈 Крупный транспортный поток. Подойдет под производство или для обслуживания автотранспорта: · Автотягачей · Автобусов · Микроавтобусов · Самосвалов · Спецтехники · Тракторов · Прицепов ______________________________ ✅ Об объекте (фото реальные): · Общая площадь под аренду: 118 м2. · Отдельный вход. · Склад на втором этаже. · Второй этаж входит в стоимость аренды. · Газовое отопление. · Бетонный пол. · Въездная группа: Высота: 4 метров, Ширина: 3,5 метра. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации в здании: электроснабжение, водоснабжение, отопление. ______________________________ 📌 Характеристики прилегающей территории: · Есть сквозная грузовая автомойка. · Туалет, столовая, магазины. · Асфальтированная сухая территория. · Группа Быстрого Реагирования, охрана. · Видеонаблюдение, ограждение по периметру. ______________________________ 👍 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Отдельный заезд транспорта. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы). · В 450 м от автобазы расположена АЗС ______________________________ 💵 Коммерческие условия: · 142 000 руб. - Арендная плата помесячно. · 142 000 руб.- Возвратный залог, можно разбить по частям на два месяца. · По счётчику - Коммунальные услуги. · 0 руб. - Эксплуатационные услуги. 💵 Оплата только после заключения договора. ______________________________ ⚡ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки под ключ. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея”. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Предоставляем закрывающие документы. · Любые варианты оплаты. 📲 Более подробно расскажем по телефону - пожалуйста, звоните! Время показа объекта: Пн - Пт: 10:00 - 18:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>3.3</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>с отделкой</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4834216091">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3/2</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>399900</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qUpM9LawBaN6Q4euEvLRGlNVB6P8XQ2p-g.K1vuU2peVOflf2ep-eUTGNlA7IPK7KSOb7fH8yvo6xc</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.hzOHMrawK9qxhanXhVSnG66TKdo3myPQMQ.g0boluzEWvUdxiKZHa3j8hkjGoQwsfWON3DFWstveEo</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.u55e2LawF3dob5V6JOLCzkF5FXfucR996A.o9bFm9WepdPev9ZZjP_t6umqQY0No6CDhIODjQVm_gI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.nIiat7awMGGsALJsrvWjoLMWMmEqHjhrLA.Fw-gIwkNrFK9UkrKrspjSXyZuIXFrf5I7e_Lw6iKqYk</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.ODtcyLawlNJqfxbfILhCa0NpltLsYZzY6g.6_hFgSfs_SitteO6-gKssRQHsI8cu1W7Ny49-ZCgl4Q</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.iNJdc7awJDtrxKY2QTnogkLSJjvt2iwx6w.tN0yoX5f_YlxcS4l58G1puntOn178Y4uUTSDZkB9viI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.NM6qwLawmCecdxoqzogZ5oNhmicaaZAtHA.seI0HeDgnyE-WL4zfrcCFuuNho7Npw_2daDTBWDVD-M</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.PZGo9rawkXieQRN13opEwbdXk3gYX5lyHg.iIGuYP3nvHdKGWqQa9TJf-5BF4P6A-7ZDn4GJXlUTO8</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.EiFCqrawvsh0HTzFao5xcV0LvMjyA7bC9A.GvohK0qwc5Rag0DMWy_oz5IU-i7RdMuop4NSOB-5wLQ</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.ehFClbaw1vh0IlT1OvwGQV001PjyPN7y9A.pJCmR5BluJWJLVRMfwGXgaehvBEJdk2CvHn6IhTD_5k</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.LqhTDLawgkFluwBMA0xW-EytgEHjpYpL5Q.8lB-2cbiASZCjfeZOCicRPj5Xb9v6qwHRH3AUeV1kSY</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1._qg9DLawUkELu9BMTXeF-CKtUEGNpVpLiw.dIBADQNT5OqHO3HntsPIxEEZshUzbnlMK3iRxmA_6g4</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.S-DVuraw5wnjDWUEz4NuyPwb5QllE-8DYw.gHEgHygJXioGyCxpq6TEfvfAG0PcYZPepncXF-VPeLQ</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.KPldc7awhBBrxAYdAQtNqULShhDt2owa6w.3Nr-MTMgZCj-f3YR8z2bJKHXaAtUF-ffqKJq_p__SGE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.7SYKWrawQc887cPCXGnzexb7Q8-680nFvA.p0DtZTo_vOtb-wJUy5TNeWgL8oYm6ievvEkKoRw04Do</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1._3gmkrawU5EQJdGcVOXWUA8zUZGWO1ubkA.tOcm-RW8RJ71jB-P4RjmRjlh_JkPLQZ1gyeV9nL9Hds</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.KmmHL7awhoCxmASN33cMQa6OhIA3ho6KMQ._Et4V3byTm68uH95dkruNhDBhcSCtmVDRoJWK-uZTow</image>
+<area>
+<value>389.4</value>
+<unit>sq. m</unit>
+</area>
+<description>Отапливаемое помещение около крупного жилого комплекса на охраняемой территории. Подходит под грузовой автосервис, крупное производство. 🎯 Предоставляем арендные каникулы, можно поделить помещение по полам. Объект подойдет под автосервис для ремонта и полного обслуживания: · Автотягачей · Автобусов · Микроавтобусов · Самосвалов · Спецтехники · Тракторов · Прицепов 📈 Крупный транспортный поток. Или под производство мебели, металлоконструкций и т.д. ______________________________ ✅ Об объекте (фото реальные): · Общая площадь под аренду: 389,4 м2. · Первый этаж: 334,4 м2. · Второй этаж: 55 м2. (аренда входит в стоимость) · Отдельный вход. · Сквозной проезд. · Отапливаемое помещение. · Есть трехфазное питание. · Бетонный пол. · Вентиляция временно отключена для ремонта. · Въездная группа: Высота: 4 метров, Ширина: 3 метра. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации в здании: электроснабжение, водоснабжение, водоотведение, канализация, отопление. ______________________________ 📌 Характеристики прилегающей территории: · Есть сквозная грузовая автомойка. · Туалет, столовая. · Асфальтированная сухая территория. · Группа Быстрого Реагирования, охрана. · Видеонаблюдение, ограждение по периметру. ______________________________ 👍 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Отдельный заезд транспорта. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы). · В 450 м от автобазы расположена АЗС ______________________________ 💵 Коммерческие условия: · 399 900 руб. - Арендная плата помесячно. · 399 900 руб.- Возвратный залог, можно разбить по частям на два месяца. · По счётчику - Коммунальные услуги. · 0 руб. - Эксплуатационные услуги. 💵 Оплата только после заключения договора. ______________________________ ⚡ Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки под ключ. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея”. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Предоставляем закрывающие документы. · Любые варианты оплаты. 📲 Более подробно расскажем по телефону - пожалуйста, звоните! Время показа объекта: Пн - Вс: 09:00 - 21:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>8</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4898030089">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3/2</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>249900</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.eqXFQLaw1kzz91RBvUVs8tPh1Ex16d5Gcw.wnORycYXPUdIOP6vaJzOPnFo569GAO3gKUXIzKPpwiw</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.CoXFsbawpmzzBiRh3f1k0tMQpGx1GK5mcw.pGqe8BzWeHK0sLqUTZTzlgUA57YNbmfzr-Q8fEQGqTE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.SJMSqbaw5HokHmZ3DvRgtQoI5nqiAOxwpA._Q7zw7J0iRgt00AXKD55qO5JYRcN9t0eyXFQNf4kPO4</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.TsOgM7aw4iqWhGAnsD5p5biS4CoQmuogFg.Pyq-4ZVp7_djFPuluj4ySjZtWvkK13IF4mFOgoPCrYE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.qT9yeLawBdZEz4fbLAqCYW7ZB9bC0Q3cxA.kuHBalKRColCcTmmm_GwijFslHRmAfCNXHFA9YyNomY</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.NsM2M7awmioAhBgnVmcV5S6SmCqGmpIggA.uQBiOeuQ-CuR4dhHNYHpFObsAZxUv7BSarRP0xwzdyk</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.2RguN7awdfEYgPf8EES3TziWd_Genn37mA.iyFzcJNk3n-Qb44q_T-VH7cuSMo_Q5a80hx3RaRKPoo</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.ywx537awZ-VPaOXoY-TfW29-ZeXJdm_vzw.HDP8QNP3i3PcFUN_QTkP-eZD5vG0sNXtIzmh7Hjn-QE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.vfSPIrawER25lZMQ-Xjbo5mDEx0_ixkXOQ.-R--RDiNRVe8Rzn8q1B-DiYmz3YtNFwhJs6m6Scf_Mc</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.8bBiTbawXVlU-t9UDGrY7n7sX1nS5FVT1A.I0P7VXnOieMY-7K-6TIzNCXZSAevLUoDywpJ27Aj38U</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.SliN2baw5rG7bmS8lcB0BpF45LE9cO67Ow.oXPH5PM8_ReB4rR0cW6fWPRFEgoIOBLqeTOt7YrkWTg</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.OwPb1rawl-rtYRXnoa5HU8R3leprf5_gbQ.JWXrTVpM8-ohAxWZemKYf7FjTB2al5_24SIxx9bZ0zM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.K_Q1urawhx0DDQUQb54L3BwbhR2FE48Xgw.v_gEB8FSbD9q6NwZWakIXT_U9iWQoyf_2zalHKLJCO4</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.JkAZ4LawiqkvVwikWZhcEAZBiKmpSYKjrw.9wurfEoqPeWB8ImbEtJ9TJu9dfTwOv66h7qNoRojxFg</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.PZGt_rawkXibSRN124ZBwbJfk3gdV5lyGw.7WD_WNdA9Rq0WZkCLlRaLnB2es8V_CucqKhDbpiAVME</image>
+<area>
+<value>365</value>
+<unit>sq. m</unit>
+</area>
+<description>Отапливаемое помещение от собственника на охраняемой территории. 🏡 Об объекте: · Помещение полностью готово к заезду. · Выполнен ремонт, подведены все коммуникации. · Есть грузовой лифт на второй этаж. · Удобная погрузочная зона. · Общая площадь: 365 м2. · Второй этаж. · Бетонный ровный пол. · 2 мокрые точки. · Высота потолков: 3 м. · Все помещения свободного назначения. · Отопление: центральное, газовое. · Подключено в здании: электроснабжение, водоснабжение, водоотведение, отопление, канализация. ______________________________ 👍 Характеристики прилегающей территории: · Рядом есть вся необходимая инфраструктура для работы команды. · Магазины, кафе, столовая, уборная. · Есть сквозная грузовая автомойка. · Группа Быстрого Реагирования, охрана. · Асфальтированная территория. · Ограждение по периметру. · Круглосуточное видеонаблюдение. ______________________________ 📈 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы). · В 450 метрах от автобазы расположена АЗС. ______________________________ 💵 Коммерческие условия: · 249 900 руб. - Арендная плата помесячно. · 249 900 руб.- Возвратный залог, можно разбить по частям на два месяца. · По счётчику - Коммунальные услуги. · 0 руб. - Эксплуатационные услуги. 💵 Оплата после заключения договора. ______________________________ 🤝 Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки под ключ. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея”. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. · НДС / без НДС · Предоставляем закрывающие документы. 📲 Более подробно расскажем по телефону - пожалуйста, звоните! Время показа объекта: Пн - Пт: 10:00 - 18:00</description>
+<floor>2</floor>
+<floors-total>3</floors-total>
+<ceiling-height>3</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>черновая отделка</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4929907628">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3Б</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>149900</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.96LYjLawW0vuO9lGusut98QtWUtoJVNBbg.hT7bPP8vRy2ecK26JZu1Kss9-6aDbbsoRd7wSYLGtnI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.xaQJp7awaU0_EOtAD6ztiB8Ga025DmFHvw.cCO6BmJAcIy6QqnTcj3Z2T4pFYjeuQAfQoXo9rcl_4U</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Pe_6jLawkQbMOxMLjMwWw-wtkwZKJZkMTA.6mUjXOrP_CO5yIiqRLWFskfJCqJiN9WriRkkoZiL8pI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.JMQ0hbawiC0CMgogcP0P6CIkii2ELIAngg.8UQW0DhbjC6i8JhgN9oRCqhl0BcB0JfsXyWeeLgyMQ0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.xMxpIbawaCVfluoobSrs4H-AaiXZiGAv3w.CS6t5K1BkaEll3kSs6ePN1aFn7o_kb2DBv46gucYvJA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.nK2_SbawMESJ_rJJi3fokafoMkQP4DhOCQ.RLIUj5egiAc6T9_eMBCn-R8qPwgI2wyrm42FTbt5X18</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.CuKugrawpguYNSQGtpZ93rYjpAseK64BGA.e4wJY4uJQ7GP7_QtJwTjO93J8e1ocTvjp0eBborNaLM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.mvOA-rawNhq2TbQXuLjmz5hbNBowUz4QNg.zaI8l1QpG_jT1c9avSe6T_DwBE_on7egA8bnr_7spxA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.uqDGpbawFknwEpREvuPe9NoEFEl2DB5DcA.F_PaHxm2fR1l9NAcJCIKHLq6bXu7pfa7KaCTGFQh18c</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.t4W3frawG2yByZlh1RDX0avfGWwH1xNmAQ.YxVpu27t3YZTsxA4Q-sQItEoGCLHxbrkdotvEAckyTg</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.am2wKbawxoSGnkSJ6FwOT6-IxIQAgM6OBg.0nVqH5J6ThQquuhAqtKE8gqb7MpXvBPsDSI8Cdr5KBs</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.BEoxWbawqKMH7iquNXVsaC74qqOB8KCphw.VcksiZ8Yf66T-uyzbphYN1soXyMorwiP8d2oiOyw_MQ</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.09aSQLawfz-k9_0yuAv97LvhfT8i6Xc1JA.lERg31nGskHmOCFxIh81IxF4c4H_k63HsDSjY7SWyM0</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.GOlcu7awtABqDDYNYMN_y0MatgDsErwK6g.CAwbhbuvdM8HqNVRw2Hs9l-Mcxlfcg_8fLwl9v_MqaM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.WRDJL7aw9fn_mHf09wYJK-CO9_l5hv3zfw.xMPRyFWSzeZwkL_Bz9KWst1VH7uKnANiDOB3Zr3dQd0</image>
+<area>
+<value>161</value>
+<unit>sq. m</unit>
+</area>
+<description>Помещение для размещения любых видов деятельности от производства, мастерской до склада и автосервиса. 🎯 Предоставляем арендные каникулы. 🏡 Об объекте: · Помещение полностью готово к заезду. · Площадь под аренду: 161 м2. · Отдельный вход. · Бетонный пол. · Высота потолков: 2,89 м. · Отопление: автономное, пеллетное. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации: электроснабжение, водоснабжение. ______________________________ 👍 Характеристики прилегающей территории: · Рядом есть вся необходимая инфраструктура для работы команды. · Магазины, кафе, столовая, уборная. · Есть сквозная грузовая автомойка. · Группа Быстрого Реагирования, охрана. · Асфальтированная территория. · Ограждение по периметру. · Круглосуточное видеонаблюдение. ______________________________ 📈 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы). · В 450 метрах от автобазы расположена АЗС. ______________________________ 💵 Коммерческие условия: · 149 900 руб. - Арендная плата помесячно. · 149 900 руб.- Возвратный залог, можно разбить по частям на два месяца. · По счётчику - Коммунальные услуги. · 0 руб. - Эксплуатационные услуги. 💵 Оплата после заключения договора. ______________________________ 🤝 Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки под ключ. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея”. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. · НДС / без НДС · Предоставляем закрывающие документы. 📲 Более подробно расскажем по телефону - пожалуйста, звоните! Время показа объекта: Пн - Пт: 10:00 - 17:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>2.9</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>черновая отделка</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4930163998">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3Б</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>79800</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.KVPhL7awhbrXmAe3vzsFBv6Oh7pRho2wVw.mCaGleuX-c5XK67A1b0n9-K3_GCspda7y26ODjUdQxE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.eefhxbaw1Q7XclcDn6Boychk1w5RbN0EVw.mypo3Fxxwt97wviF0DyuSLX4Nctp851m4sFOB2ZkvqM</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Uzq1traw_9ODAX3en8NAFJwX_dMFH_fZAw.-vJjA51JxAqCEjORgwuCMAkN8hCHFfoclVHjKmiJHe8</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.B7WHvrawq1yxCSlRhdIk4JgfqVw3F6NWMQ.WAGVk9ZkDBO1sl0xhgeB6__ALq92VWzNfucPgkmjAdY</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.6MB_M7awRClJhMYkI2S9lmCSRinPmkwjyQ.-roCnP_fpuV5VKqY81EDoJQlgoxUvlSWEc2TaolMhLQ</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.R37okLaw65feJ2ma6u1uK_cx6ZdYOeOdXg.0K3G3bVbhSO1YlNl6JE4TeGDo9dgqp9RjbT6oIfsEys</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.yMPV5bawZCrjUuYnyYaj7fxEZiplTGwgYw.z-UsoUfncoLi10-RybVY7bBqKNXOdGEwZ7IC2USTQ4E</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Ito_IbawjjMJlgw-d3kE9xaAjDOPiIY5iQ.ZzX_kWPYPHCqpyxq5y8pVUYlvznh44EpqnAzwD1K11g</image>
+<area>
+<value>228</value>
+<unit>sq. m</unit>
+</area>
+<description>Отапливаемое помещение от собственника около крупного жилого комплекса на охраняемой территории. 🎯 Предоставляем арендные каникулы. ⚡ Для небольшого производства-мастерской. Кроме: пожароопасных бизнесов, например сварочных работ. 🏡 Об объекте: · Площадь объекта: 228 м2. · Второй этаж. · Бетонный ровный пол. · Возможно установить принудительную вытяжку. · Высота потолков: 3 м. · Отопление: центральное, газовое. · Подключено в здании: электроснабжение, водоснабжение, водоотведение, отопление, канализация. ______________________________ 👍 Характеристики прилегающей территории: · Рядом есть вся необходимая инфраструктура для работы команды. · Магазины, кафе, столовая, уборная. · Есть сквозная грузовая автомойка. · Группа Быстрого Реагирования, охрана. · Асфальтированная территория. · Ограждение по периметру. · Круглосуточное видеонаблюдение. ______________________________ 📈 Логистика/инфраструктура прилегающей территории: · Помещение находится рядом с крупными магистралями: пр. М. Блюхера, пр. Энергетиков, Индустриального пр-та. · Наличие площадок для отстоя большегрузных автомобилей и парковки легковых автомобилей. · Остановка транспорта в 50 метрах от здания. (Сотрудникам удобно добираться до работы). · В 450 метрах от автобазы расположена АЗС. ______________________________ 💵 Коммерческие условия: · 79 800 руб. - Арендная плата помесячно. · 79 800 руб.- Возвратный залог, можно разбить по частям на два месяца. · По счётчику. - Фиксированные коммунальные услуги . · 0 руб. - Эксплуатационные услуги. 💵 Оплата после заключения договора. ______________________________ 🤝 Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки под ключ. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея”. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. · НДС / без НДС · Предоставляем закрывающие документы. 📲 Более подробно расскажем по телефону - пожалуйста, звоните! Время показа объекта: Пн - Пт: 10:00 - 17:00</description>
+<floor>2</floor>
+<floors-total>3</floors-total>
+<ceiling-height>3</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>черновая отделка</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<heating-supply>1</heating-supply>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+<offer internal-id="comm_rent_4930266443">
+<creation-date>2024-12-02T00:00:00+03:00</creation-date>
+<location>
+<country>Россия</country>
+<region>Санкт-Петербург</region>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Екатерининский проспект, 3Б</address>
+</location>
+<sales-agent>
+<name>Марина</name>
+<phone>+79219510681</phone>
+<category>agency</category>
+</sales-agent>
+<price>
+<value>499000</value>
+<currency>RUR</currency>
+<period>месяц</period>
+</price>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Z3btzLawy5_be0mSr611LvFtyZ9dZcOVWw.8ThvqgiVWoP5NS1TDNIezJbfXdtBG0SQCtu2tACjPO8</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.mUBC0LawNal0Z7ekfKbBEVRxN6nyeT2j9A.K66maydEMy7F3MZ4RlpP-8UnEBvbNQB4mSUaNmdzTfE</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.B7Wr3Lawq1ydaylRqfQV4bR9qVwbdaNWHQ.v6hsNzMzwzZHN941FoME0ib_7fl4nlhFnc1X2EFxygQ</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.oL8Ss7awDFYkBI5bXq3NnwoSDlaiGgRcpA.7mpWhGyc0_UT0PlYzy7CKL10q_S4NLCF3jlIcbe3yKU</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.Y8Zkq7awzy9SHE0iLsYP5nwKzS_UAscl0g.mMHSbm5Eeh_6qUiTYDjLxcUeX2HlPc6aePmA-ofUaMo</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.0H3sibawfJTaPv6ZwP78fPMofpRcIHSeWg.DK3Wts75t-eXSQ1YxE6uFkr7PmmiGu1r1NwQ2SFo2mo</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.groIsbawLlM-BqxeAPPsoCEQLFO4GCZZvg.5TW4wkJCOBFH5UpwBywS7YS22MQ3dshAi4NAjZCoAfI</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.MnesBrawnp6asRyTxFYbdrOnnJ4cr5aUGg.9Jcft2LDhCiqGQ7Laxv4lxILfvRrBNCCPcfAa4tAcAo</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.gT6aIrawLdesla_alHiuP4WDL9cqiyXdLA.qOisrmqXyyhdSxkE51IrQS7Z4hMbkr5U0whIwLo3bmk</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.SDJcT7aw5Ntq-GbWQAY0LUPu5tvs5uzR6g.1us7oLZU4NwLlvkP-sufK2HMzHtGVBwAH0Mf_Ub_4QA</image>
+<image>http://avito.ru/autoload/1/items-to-feed/images?imageSlug=/image/1/1.yRyHrrawZfWxGef4mfHdBq4PZ_U3B23_MQ.8Xkp_98xrGfW5LF4Z0FZQrsxfhaLF2FVQchq-aaA9ME</image>
+<area>
+<value>416</value>
+<unit>sq. m</unit>
+</area>
+<description>Производственное отапливаемое помещение для размещения любых видов деятельности от производства, сборочного цеха, мастерской до склада и автосервиса. 🏡 Об объекте: · Помещение полностью готово к заезду. · Выполнен ремонт, подведены все коммуникации. · Возможно установить малярную камеру с вытяжкой. · Общая площадь под аренду: 416 м2. · Отдельный вход. · Бетонный наливной ровный пол. · Туалет. · Отопление: центральное, газовое. · Въездная группа: Высота: 3,5 метров, Ширина: 4 метра. · Отсутствие любых обременений (юридически чистый объект). · Подключенные коммуникации в здании: электроснабжение, водоснабжение, водоотведение, отопление. ______________________________ 👍 Характеристики прилегающей территории: · Рядом есть вся необходимая инфраструктура для работы команды. · Группа Быстрого Реагирования, охрана. · Ограждение, закрытая асфальтированная территория. · Круглосуточное видеонаблюдение. · Удобный подъезд грузовой техники. · Регулярное обслуживание территории. ______________________________ 📈 Логистика прилегающей территории: · Помещение находится в 15 км до КАД, а также в 10 км до федеральной трассы. · Удобный асфальтированный выезд на главные автомагистрали Лен. области и в ближайший город Колпино. · Остановка общественного транспорта в 15 минутах ходьбы. (Сотрудникам удобно добираться на работу). · Через 150 метров жилой комплекс, где расположены магазины, кафе, ваша платежеспособная аудитория. ______________________________ 💵 Коммерческие условия: · 499 000 руб. - Арендная плата помесячно. · 499 000 руб.- Возвратный залог, можно разбить по частям на два-три месяца. · По счётчику - Коммунальные услуги. · 0 руб. - Эксплуатационные услуги. 💵 Оплата после заключения договора. ______________________________ 🤝 Почему наше сотрудничество экономически выгодно: · Юридическая подготовка и сопровождение сделки под ключ. · Управление и обслуживание объекта недвижимости напрямую от “УК Созвездие Водолея”. · Юридические услуги по регистрации предприятий. · Сопровождение проверок вашего предприятия гос. органами. · Работаем с физическими и юридическими лицами. · Любые варианты оплаты. · НДС / без НДС · Предоставляем закрывающие документы. 📲 Более подробно расскажем по телефону - пожалуйста, звоните! Время показа объекта: Пн - Пт: 10:00 - 17:00</description>
+<floor>1</floor>
+<floors-total>3</floors-total>
+<ceiling-height>8</ceiling-height>
+<parking>да</parking>
+<category>commercial</category>
+<commercial-building-type>business center</commercial-building-type>
+<renovation>черновая отделка</renovation>
+<entrance-type>common</entrance-type>
+<ventilation>1</ventilation>
+<fire-alarm>1</fire-alarm>
+<type>аренда</type>
+<commercial-type>free purpose</commercial-type>
+<commission>0</commission>
+<prepayment>100</prepayment>
+<security-payment>100</security-payment>
+<rent-pledge>да</rent-pledge>
+<deal-status>direct rent</deal-status>
+<cleaning-included>нет</cleaning-included>
+<utilities-included>нет</utilities-included>
+<electricity-included>нет</electricity-included>
+<office-class>C</office-class>
+</offer>
+</realty-feed>
